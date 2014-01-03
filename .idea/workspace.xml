@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49c3fd5f-cac1-4794-bae2-80159735d847" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/approximate_pattern_match.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clump_finding.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cyclopeptide_sequencing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frequent_words_with_mismatches.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genome.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hello.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/peptide_encoding.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/peptide_encoding_data.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rna_codons.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/silly.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skew.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theoretical_spectrum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/toolset.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cyclopeptide_sequencing.py" afterPath="$PROJECT_DIR$/cyclopeptide_sequencing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="silly.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -118,10 +100,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cyclopeptide_sequencing.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="cyclopeptide_sequencing.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cyclopeptide_sequencing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="6" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+            <state line="36" column="19" selection-start="911" selection-end="911" vertical-scroll-proportion="0.5730337" vertical-offset="306" max-vertical-offset="867">
               <folding />
             </state>
           </provider>
@@ -136,10 +118,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theoretical_spectrum.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="theoretical_spectrum.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/theoretical_spectrum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="12" selection-start="306" selection-end="306" vertical-scroll-proportion="0.6500956" vertical-offset="0" max-vertical-offset="523">
+            <state line="16" column="22" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -509,22 +491,27 @@
       <created>1388402147507</created>
       <updated>1388402147507</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1388737804913</created>
+      <updated>1388737804913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1032" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32996634" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24840765" sideWeight="0.6700337" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24840765" sideWeight="0.68237936" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5028058" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32996634" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31762066" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31762066" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31762066" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -652,6 +639,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/theoretical_spectrum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="22" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/genome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="109" column="27" selection-start="2201" selection-end="2201" vertical-scroll-proportion="0.0" vertical-offset="1454" max-vertical-offset="2397">
@@ -663,17 +659,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cyclopeptide_sequencing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="6" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+        <state line="36" column="19" selection-start="911" selection-end="911" vertical-scroll-proportion="0.5730337" vertical-offset="306" max-vertical-offset="867">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theoretical_spectrum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="12" selection-start="306" selection-end="306" vertical-scroll-proportion="0.6500956" vertical-offset="0" max-vertical-offset="523">
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

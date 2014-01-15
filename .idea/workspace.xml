@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49c3fd5f-cac1-4794-bae2-80159735d847" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UnitTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/integer_mass_table.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leaderboard_cyclopeptide_sequencing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestLeaderboard.py" />
+      <change type="DELETED" beforePath="D:\users\philip\PycharmProjects\silly2\UnitTest.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leaderboard_cyclopeptide_sequencing.py" afterPath="$PROJECT_DIR$/leaderboard_cyclopeptide_sequencing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/silly.iml" afterPath="$PROJECT_DIR$/.idea/silly.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="silly.iws" />
@@ -41,9 +43,7 @@
         <entry file="file://$PROJECT_DIR$/approximate_pattern_match.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="31" column="31" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="867">
-              <folding>
-                <marker date="1388585234160" expanded="true" signature="561:600" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,9 +52,7 @@
         <entry file="file://$PROJECT_DIR$/frequent_words_with_mismatches.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="27" column="5" selection-start="747" selection-end="747" vertical-scroll-proportion="0.0" vertical-offset="367" max-vertical-offset="1054">
-              <folding>
-                <marker date="1388621590497" expanded="true" signature="551:692" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -86,10 +84,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leaderboard_cyclopeptide_sequencing.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="leaderboard_cyclopeptide_sequencing.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leaderboard_cyclopeptide_sequencing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.14212549" vertical-offset="161" max-vertical-offset="1258">
+            <state line="12" column="0" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="1309">
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -97,10 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UnitTest.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UnitTest.py">
+      <file leaf-file-name="TestLeaderboard.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestLeaderboard.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="459">
+            <state line="32" column="38" selection-start="1561" selection-end="1561" vertical-scroll-proportion="0.8460342" vertical-offset="0" max-vertical-offset="867">
+              <folding>
+                <element signature="e#23#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="integer_mass_table.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integer_mass_table.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="4" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
               <folding />
             </state>
           </provider>
@@ -109,16 +118,7 @@
       <file leaf-file-name="utrunner.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/utrunner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="2669">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="case.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://C:/Python27/Lib/unittest/case.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="743" column="0" selection-start="28386" selection-end="28386" vertical-scroll-proportion="0.0" vertical-offset="12631" max-vertical-offset="18394">
+            <state line="151" column="0" selection-start="4651" selection-end="4651" vertical-scroll-proportion="0.0" vertical-offset="1687" max-vertical-offset="2635">
               <folding />
             </state>
           </provider>
@@ -158,14 +158,17 @@
         <option value="$PROJECT_DIR$/genome.py" />
         <option value="$PROJECT_DIR$/cyclopeptide_sequencing.py" />
         <option value="$PROJECT_DIR$/integer_mass_table.txt" />
-        <option value="$PROJECT_DIR$/leaderboard_cyclopeptide_sequencing.py" />
         <option value="$PROJECT_DIR$/UnitTest.py" />
+        <option value="$PROJECT_DIR$/leaderboard_cyclopeptide_sequencing.py" />
+        <option value="$PROJECT_DIR$/TestLeaderboard.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="960" />
-    <option name="height" value="1032" />
+    <option name="x" value="65" />
+    <option name="y" value="38" />
+    <option name="width" value="1390" />
+    <option name="height" value="1107" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -193,6 +196,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -207,90 +211,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="silly" />
+              <option name="myItemId" value="silly2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="D:/Python27/python.exe" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittest MyTestCase.test_something">
-    <configuration default="false" name="theoretical_spectrum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="C:/Temp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="silly" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/theoretical_spectrum.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="cyclopeptide_sequencing" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="C:/temp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="silly" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cyclopeptide_sequencing.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="leaderboard_cyclopeptide_sequencing" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="silly" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leaderboard_cyclopeptide_sequencing.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in UnitTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in TestLeaderboard (1)">
+    <configuration default="false" name="Unittests in TestLeaderboard" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -300,7 +245,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="silly" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UnitTest.py" />
+      <option name="SCRIPT_NAME" value="D:\users\philip\PycharmProjects\silly2\TestLeaderboard.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -324,9 +269,85 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="silly" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UnitTest.py" />
+      <option name="SCRIPT_NAME" value="D:\users\philip\PycharmProjects\silly2\TestLeaderboard.py" />
       <option name="CLASS_NAME" value="MyTestCase" />
       <option name="METHOD_NAME" value="test_something" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="Basic" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in TestLeaderboard (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="silly" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestLeaderboard.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest MyTestCase.test_expand" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="silly" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestLeaderboard.py" />
+      <option name="CLASS_NAME" value="MyTestCase" />
+      <option name="METHOD_NAME" value="test_expand" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest MyTestCase.test_score" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="silly" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestLeaderboard.py" />
+      <option name="CLASS_NAME" value="MyTestCase" />
+      <option name="METHOD_NAME" value="test_score" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -462,19 +483,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.theoretical_spectrum" />
-      <item index="1" class="java.lang.String" itemvalue="Python.cyclopeptide_sequencing" />
-      <item index="2" class="java.lang.String" itemvalue="Python.leaderboard_cyclopeptide_sequencing" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in UnitTest" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_something" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in TestLeaderboard" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_something" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in TestLeaderboard (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_expand" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_score" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_something" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in UnitTest" />
-        <item index="2" class="java.lang.String" itemvalue="Python.leaderboard_cyclopeptide_sequencing" />
-        <item index="3" class="java.lang.String" itemvalue="Python.cyclopeptide_sequencing" />
-        <item index="4" class="java.lang.String" itemvalue="Python.theoretical_spectrum" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in TestLeaderboard (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_score" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_expand" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest MyTestCase.test_something" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in TestLeaderboard" />
       </list>
     </recent_temporary>
   </component>
@@ -510,23 +531,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1032" extended-state="0" />
+    <frame x="65" y="38" width="1390" height="1107" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24840765" sideWeight="0.49719417" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5028058" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17030568" sideWeight="0.7076923" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50256413" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31762066" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31762066" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2923077" sideWeight="0.45196506" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2923077" sideWeight="0.54730713" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -582,24 +603,31 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/leaderboard_cyclopeptide_sequencing.py</url>
-          <line>54</line>
+          <line>57</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/leaderboard_cyclopeptide_sequencing.py</url>
-          <line>28</line>
+          <line>31</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/UnitTest.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="37" />
+          <url>file://$PROJECT_DIR$/TestLeaderboard.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="38" />
+      <option name="time" value="39" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/utrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="2669">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/clump_finding.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="202" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="799">
@@ -610,9 +638,7 @@
     <entry file="file://$PROJECT_DIR$/approximate_pattern_match.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="31" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0" vertical-offset="40" max-vertical-offset="867">
-          <folding>
-            <marker date="1388585234160" expanded="true" signature="561:600" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -629,9 +655,7 @@
     <entry file="file://$PROJECT_DIR$/frequent_words_with_mismatches.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="5" selection-start="747" selection-end="747" vertical-scroll-proportion="0.0" vertical-offset="367" max-vertical-offset="1054">
-          <folding>
-            <marker date="1388621590497" expanded="true" signature="551:692" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -661,14 +685,16 @@
         <state line="99" column="0" selection-start="1923" selection-end="1923" vertical-scroll-proportion="0.33333334" vertical-offset="1471" max-vertical-offset="2363" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/integer_mass_table.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="5" selection-start="114" selection-end="114" vertical-scroll-proportion="0.6320939" vertical-offset="0" max-vertical-offset="511" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skew.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="580">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/utrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="0" selection-start="4651" selection-end="4651" vertical-scroll-proportion="0.0" vertical-offset="1687" max-vertical-offset="2635">
           <folding />
         </state>
       </provider>
@@ -680,32 +706,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/utrunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.0" vertical-offset="518" max-vertical-offset="2635">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UnitTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="743" column="0" selection-start="28386" selection-end="28386" vertical-scroll-proportion="0.0" vertical-offset="12299" max-vertical-offset="18173">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leaderboard_cyclopeptide_sequencing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.14212549" vertical-offset="161" max-vertical-offset="1258">
+        <state line="12" column="0" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="1309">
           <folding>
             <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integer_mass_table.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="4" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestLeaderboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="38" selection-start="1561" selection-end="1561" vertical-scroll-proportion="0.8460342" vertical-offset="0" max-vertical-offset="867">
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
           </folding>
         </state>
       </provider>

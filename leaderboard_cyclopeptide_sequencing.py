@@ -12,14 +12,17 @@ def expand(leaderboard, weights):
 
 
 def sublists(peptide):
-    ''' Return the circular spectrum of a given peptide.'''
+    """ Return the circular spectrum of a given peptide."""
     cyclopeptide = peptide + peptide
-    for j in xrange(1, len(peptide)):
+    for j in xrange(len(peptide)):
         for i in xrange(len(peptide)):
-            yield cyclopeptide[i:i + j]
+            sublist = cyclopeptide[i:i + j]
+            if sublist:
+                yield sublist
+    yield peptide
 
 def score(peptide, spectrum):
-    ''' Return score, the number of matching masses between peptide and spectrum.'''
+    """ Return score, the number of matching masses between peptide and spectrum."""
     peptide_spectrum = list(sublists(peptide))
     return sum([min(peptide_spectrum.count(p), spectrum.count(p)) for p in peptide_spectrum])
 
@@ -48,7 +51,7 @@ if __name__ == "__main__":
     inpFile.readline()
     # spectrum = map(int, inpFile.readline().split())
 
-    zero_tuple=0,
+    zero_tuple = 0,
     leaderboard = set()
     leaderboard.add(zero_tuple)
     leaderpeptide = zero_tuple
